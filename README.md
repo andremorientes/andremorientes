@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **andremorientes/andremorientes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,39 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, meu nome é André Morientes  👋
+# Hello, my name is André Morientes 👋
 
-![Seguidores do GitHub](https://img.shields.io/github/followers/andremorientes?label=Follow&style=social)
-![Estrelas do GitHub](https://img.shields.io/github/stars/andremorientes?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/andremorientes?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/andremorientes?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## Sobre mim
+## About me
 
-Sou André Morientes Misério Banze, um apaixonado profissional de TI da Matola, Moçambique. Com uma sólida base em ciência da computação e um grande interesse no desenvolvimento de software, procuro continuamente expandir meu conjunto de habilidades e contribuir para projetos impactantes.
+I'm André Morientes Misério Banze, a passionate IT professional from Matola, Mozambique. With a solid foundation in computer science and a keen interest in software development, I continually seek to expand my skill set and contribute to impactful projects.
 
-- 🌱 Atualmente estou aprendendo conceitos avançados em **Desenvolvimento de Aplicativos Móveis** e **Inteligência Artificial**.
-- 🔭 Atualmente estou trabalhando em vários projetos interessantes, incluindo **aplicativos móveis** usando Kotlin e Java, MVVM, retrofit,Room data base, Firebase
-- 👯 Procuro colaborar em projetos inovadores que ultrapassem os limites da tecnologia e tragam mudanças significativas.
-- 📫 Como entrar em contato comigo: [noticiasdeafrica21@gmail.com](mailto:noticiasdeafrica21@gmail.com)
+- 🌱 I am currently learning advanced concepts in **Mobile Application Development** and **Artificial Intelligence**.
+- 🔭 I'm currently working on several interesting projects, including **mobile apps** using Kotlin and Java, MVVM, retrofit, Room data base, Firebase
+- 👯 I seek to collaborate on innovative projects that push the limits of technology and bring significant changes.
+- 📫 How to contact me: [noticiasdeafrica21@gmail.com](mailto:noticiasdeafrica21@gmail.com)
 
-## Habilidades e experiência
+## Skills and experience
 
-### Linguagens de programação
+### Programming languages
 
 - **Kotlin**
 - **Java**
 - **HTML, CSS, JavaScript**
 
-### Ferramentas e tecnologias
+### Tools and technologies
 
 - **Firebase**
 - **MySQL**
-- **Git e GitHub**
+- **Git and GitHub**
 
 
 
-## Informações de contato
+## Contact information
 
-- **Telefone**: +258 845723186
+- **Telephone**: +258 845723186
 - **E-mail**: [noticiasdeafrica21@gmail.com](mailto:noticiasdeafrica21@gmail.com)
 - **LinkedIn**: [Andre Morientes ](https://www.linkedin.com/in/andremorientes/)
 
